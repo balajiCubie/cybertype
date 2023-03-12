@@ -15,7 +15,7 @@ export default function Document() {
         <link href="/icons/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32" />
 
         {/* <!-- Facebook Meta Tags --> */}
-        <meta property="og:url" content="https://cybertype.app" />
+        <meta property="og:url" content="https://cuvisoft.com" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="cybertype" />
         <meta
@@ -27,7 +27,7 @@ export default function Document() {
         {/* <!-- Twitter Meta Tags --> */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="cybertype.app" />
-        <meta property="twitter:url" content="https://cybertype.app" />
+        <meta property="twitter:url" content="https://cuvisoft.com" />
         <meta name="twitter:title" content="cybertype" />
         <meta
           name="twitter:description"
