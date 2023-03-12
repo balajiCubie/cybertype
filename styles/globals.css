@@ -34,11 +34,11 @@ body::-webkit-scrollbar-thumb:hover {
   --bg: hsl(0deg 12% 8%);
   --secondary: hsl(27deg 31% 70%);
   --tertiary: hsl(0deg 11% 24%);
-  --primary: hsl(39deg 100% 61%);
+  --primary: hsl(187, 81%, 69%);
   --error: hsl(4deg 96% 52%);
 
   --fast: hsl(39deg 100% 86%);
-  --normal: hsl(39deg 100% 61%);
+  --normal: hsl(173, 94%, 75%);
   --slow: hsl(4deg 96% 52%);
 
   --island-bg: var(--primary);
